@@ -1,0 +1,28 @@
+{
+  "name": "thesimsfactor",
+  "version": "1.0.0",
+  "description": "Turn your Sims stream into a reality TV show! Twitch Extension for The Sims!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/TheSimsFactor.git"
+  },
+  "keywords": [
+    "Instafluff",
+    "TheSims",
+    "sims"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/TheSimsFactor/issues"
+  },
+  "homepage": "https://github.com/instafluff/TheSimsFactor#readme",
+  "dependencies": {
+    "comfy.js": "^1.0.11",
+    "webwebweb": "^1.1.5"
+  }
+}

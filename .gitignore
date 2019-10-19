@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+*.cache
+
+TheSimsFactor/TheSimsFactor/bin/
+TheSimsFactor/TheSimsFactor/obj/
+TheSimsFactor/.vs/
+TheSimsFactor/packages/
